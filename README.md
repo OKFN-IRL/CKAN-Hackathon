@@ -17,8 +17,8 @@ Cheerleader-in-Chief / Head-of-All-Operations: [Kelly Fitzgerald](https://twitte
      + Review suggestions re Technology and Innovation for OGP National Action Plan
      
 
-+ Launch ‘Open Knowledge Foundation - Ireland’ (OKFN-IRL) chapter
-
+## Launch ‘Open Knowledge Foundation - Ireland’ (OKFN-IRL) chapter
+   + fun
 
 
 
