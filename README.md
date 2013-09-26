@@ -1,5 +1,4 @@
-
-Draft [Google Doc](https://docs.google.com/document/d/1zLFznrdTQih82Y8CVKY4AG5gnBkt-6jeU_l-TM88fUQ/edit?pli=1#
+Draft [Google Doc](https://docs.google.com/document/d/1zLFznrdTQih82Y8CVKY4AG5gnBkt-6jeU_l-TM88fUQ/edit?pli=1#)
 
 **Cheerleader-in-Chief / Head-of-All-Operations: [Kelly Fitzgerald](https://twitter.com/CeallaighnicG)
 
