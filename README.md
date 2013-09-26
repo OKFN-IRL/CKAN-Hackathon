@@ -1,3 +1,7 @@
+Cheerleader-in-Chief / Head-of-All-Operations: [Kelly Fitzgerald](https://twitter.com/CeallaighnicG)
+Deputy Cheerleader-in-Chief: Ciaran Staunton (tbc)
+
+
 ### Scope
 1. Central Open Data Portal (CODP)
      + To deploy Central Open Data portal by upgrading [ie.ckan.net]() currently run on CKAN v 1.7.4 to the current [CKAN 2.1](https://github.com/okfn/ckan)
