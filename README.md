@@ -1,5 +1,7 @@
 **Draft [Google Doc](https://docs.google.com/document/d/1zLFznrdTQih82Y8CVKY4AG5gnBkt-6jeU_l-TM88fUQ/edit?pli=1#)**
 
+**Draft OKFN Blog Post [Google Doc](https://docs.google.com/document/d/1EONqK_L4b0Old1GpiAGKz9QoNpJ4eswh-16SYfDZLDg/edit?usp=sharing)**
+
 **Cheerleader-in-Chief / Head-of-All-Operations: [Kelly Fitzgerald](https://twitter.com/CeallaighnicG)
 
 #Scope
